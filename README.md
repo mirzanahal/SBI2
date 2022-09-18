@@ -10,10 +10,14 @@ II Computer Science, University of Waterloo, Ontario, Canada
 III School of Public Health, Tehran University of Medical Sciences, Tehran, Iran
 
 
-mirzanahal@gmail.com\\
-fjburkowski@uwaterloo.ca\\
-rohban@sharif.edu\\
-vsalimi@tums.ac.ir\\
+mirzanahal@gmail.com
+
+fjburkowski@uwaterloo.ca
+
+vsalimi@tums.ac.ir
+
 asharifiz@gmail.com
+
+rohban@sharif.edu
 
 
