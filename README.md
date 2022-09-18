@@ -1,11 +1,11 @@
 # SBI2
 Drug Repurposing for COVID-19 through Weakly Supervised Learning poster for SBI2 2022
 
-Nahal Mirzaie*, Forbes Burkowski^, Vahid Salimi&, Ali Sharifi Zarchi*, Mohammad Hossein Rohban*
+Nahal Mirzaie I, Forbes Burkowski II, Vahid Salimi III, Ali Sharifi Zarchi I, Mohammad Hossein Rohban I
 
-* Computer Engineering, Sharif University of Technology, Tehran, Iran
-^ Computer Science, University of Waterloo, Ontario, Canada
-& School of Public Health, Tehran University of Medical Sciences, Tehran, Iran
+I Computer Engineering, Sharif University of Technology, Tehran, Iran
+II Computer Science, University of Waterloo, Ontario, Canada
+III School of Public Health, Tehran University of Medical Sciences, Tehran, Iran
 
 mirzanahal@gmail.com
 
